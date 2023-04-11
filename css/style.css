@@ -196,10 +196,6 @@ h2{
   .image-item:focus .overlay {
     transform: scale(1);
   }
-  .exp-container {
-    display:inline-flex;
-    flex-direction:column;
-  }
   .experience, .classes{
     border: 3px solid #4b4a55;
     background-color:#ebeaed;
